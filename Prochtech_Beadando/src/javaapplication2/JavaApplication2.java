@@ -10,6 +10,7 @@ package javaapplication2;
  * @author peti9
  */
 public class JavaApplication2 {
+    
 
     /**
      * @param args the command line arguments

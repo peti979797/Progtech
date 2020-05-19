@@ -20,19 +20,16 @@ public interface Ieloleny {
     
     public void setSuly(int Suly);
     
-    public void setTaplalek(enum taplalek);                
+    public void setTaplalek(String taplalek);                
            
-    public enum getTaplalek();
+    public String getTaplalek();
     
     public void setEletkor(int eletkor);
     
     public String mozgas();
     
+    public String eves();
     
     
-}
-public enum Taplalek{
-    Növényevő,
-    Húsevő,
-    Mindenevő
+    
 }
